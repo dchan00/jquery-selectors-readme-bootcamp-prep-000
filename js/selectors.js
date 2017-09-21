@@ -1,7 +1,7 @@
 // declare your functions here...
-$(document).ready(function(){
-    return $('p')
-  })
+//$(document).ready(function(){
+//    return $('p')
+//  })
 
 function paragraphSelector()
 {
