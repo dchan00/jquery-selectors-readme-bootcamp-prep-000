@@ -2,3 +2,8 @@
 $(document).ready(function(){
     return $('p')
   })
+
+function paragraphSelector()
+{
+  return $('p')
+}
